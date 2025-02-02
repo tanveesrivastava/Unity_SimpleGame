@@ -19,8 +19,8 @@ The aim of this experiment is to develop a basic 3D interactive environment wher
 ## Access the Files
 Click the links below to view the corresponding files:
 
-- 📄 **[Report PDF](https://github.com/tanveesrivastava/Unity_BounceBehaviour/blob/main/Experiment%200.pdf)**
-- 🎥 **[Recorded Video]([./path-to-your-video-file.mp4](https://github.com/tanveesrivastava/Unity_BounceBehaviour/blob/main/Experiment0_Video.mkv))**
+- 📄 **[Report PDF](https://github.com/tanveesrivastava/Unity_SimpleGame/blob/main/Report.pdf)**
+- 🎥 **[Recorded Video](https://github.com/tanveesrivastava/Unity_SimpleGame/blob/main/Experiment%201_Video.mp4)**
 
 ## Usage
 - Move the object using `WASD`
